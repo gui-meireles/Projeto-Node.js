@@ -1,0 +1,16 @@
+{
+  "name": "ms-authentication",
+  "version": "1.0.0",
+  "description": "Microservice to authenticate user",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "author": "Guilherme M Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
